@@ -3,4 +3,4 @@
  - Tools Used
    - SQL Server – for data querying and joining multiple tables
    - Power BI – for creating the interactive dashboard
-![Dashboard](Project.png)
+![Alt text](http://Dashboard.png/D:\FCIS/to/img.jpg "Optional title")
