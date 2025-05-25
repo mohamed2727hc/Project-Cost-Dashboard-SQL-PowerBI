@@ -4,3 +4,4 @@
    - SQL Server – for data querying and joining multiple tables
    - Power BI – for creating the interactive dashboard
 
+![Uploading Dashboard.png…]()
