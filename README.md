@@ -4,4 +4,4 @@
    - SQL Server – for data querying and joining multiple tables
    - Power BI – for creating the interactive dashboard
 # My Dashboard 
-https://github.com/mohamed2727hc/Project-Cost-Dashboard-SQL-PowerBI/blob/main/Screenshot%202025-05-25%20103724.png?raw=true
+https://github.com/mohamed2727hc/Project-Cost-Dashboard-SQL-PowerBI/blob/57e196a9f4cc5fc5faa03270b633a4cdfa16eef9/Screenshot%202025-05-25%20103724.png
