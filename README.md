@@ -3,4 +3,4 @@
  - Tools Used
    - SQL Server – for data querying and joining multiple tables
    - Power BI – for creating the interactive dashboard
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard](Project.png)
