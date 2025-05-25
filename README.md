@@ -3,4 +3,5 @@
  - Tools Used
    - SQL Server – for data querying and joining multiple tables
    - Power BI – for creating the interactive dashboard
-
+# My Dashboard 
+https://github.com/mohamed2727hc/Project-Cost-Dashboard-SQL-PowerBI/blob/main/Screenshot%202025-05-25%20103724.png?raw=true
